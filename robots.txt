@@ -1,0 +1,8 @@
+User-Agent: *
+Allow:
+Disallow: /admin
+Disallow: /css
+Disallow: /fonts
+Disallow: /js
+
+Sitemap: https://www.snrtr.com/sitemap.xml

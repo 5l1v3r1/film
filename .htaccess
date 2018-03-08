@@ -1,0 +1,15 @@
+RewriteEngine On
+ErrorDocument 404 http://film.snrtr.com/404.php
+
+RewriteRule ^sitemap.xml$ sitemap.php [NC,L]
+RewriteRule ^([0-9a-zA-Z-_]+)-([0-9]+)$ single.php?sef=$1&film_id=$2 [L,QSA]
+RewriteRule ^kategori-([0-9a-zA-Z-_]+)$ kategoriler.php?film_kategori=$1 [L,QSA]
+
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/html text/xml text/css text/plain
+AddOutputFilterByType DEFLATE image/svg+xml application/xhtml+xml application/xml
+AddOutputFilterByType DEFLATE application/rdf+xml application/rss+xml application/atom+xml
+AddOutputFilterByType DEFLATE text/javascript application/javascript application/x-javascript
+AddOutputFilterByType DEFLATE application/x-font-ttf application/x-font-otf
+AddOutputFilterByType DEFLATE font/truetype font/opentype
+</IfModule>
