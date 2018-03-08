@@ -1,5 +1,5 @@
 # Snrtr.com Film Scripti
-Merhabalar bir süredir üzerinde çalıştığım film sitesi scriptini tamamlamış bulunmaktayım ve sizlerle paylaşıyorum.Hiçbir şekilde dosyalarda lisans ve şifreleme kulanmadım full açık kaynak kodlu bir şekilde sizlere sunulmuşturç
+Merhabalar bir süredir üzerinde çalıştığım film sitesi scriptini tamamlamış bulunmaktayım ve sizlerle paylaşıyorum.Hiçbir şekilde dosyalarda lisans ve şifreleme kulanmadım full açık kaynak kodlu bir şekilde sizlere sunulmuştur.
 # Scriptin Kurulumu
 film.sql dosyasını veritabanınıza yükleyin
 admin/islem/baglan.php dosyası üzerindeki ayarlamaları kendi local sunucunuza göre ayarlayın.
