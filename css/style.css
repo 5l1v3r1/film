@@ -22,11 +22,11 @@ body{
 .nav-link:hover{
   color: #dcf836 !important;
 }
-.top-search {
+.ust-arama {
       border-radius: 3px;
       border: 4px solid #020d18;
 }
-.top-search input {
+.ust-arama input {
   height: 46px;
     border: none;
     background-color: #233a50 !important;
@@ -293,69 +293,6 @@ font-size: 24px;
 color: #4f5b68;
 font-weight: 300;
 text-transform: uppercase;
-}
-.movie-rate {
-  display: -webkit-flex;
-display: -moz-box;
-display: -ms-flexbox;
-display: flex;
-align-items: center;
-justify-content: flex-start;
-border-top: 1px solid #405266;
-border-bottom: 1px solid #405266;
-margin-bottom: 40px;
-  }
-.movie-rate .rate {
-  display: -webkit-flex;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.movie-rate .rate i {
-  font-size: 36px;
-  color: #f5b50a;
-}
-.movie-rate .rate p {
-  margin-bottom: 0;
-  margin-left: 10px;
-  font-size: 11px;
-}
-.movie-rate .rate p span {
-  color: #ffffff;
-  font-size: 15px;
-  font-weight: 400;
-}
-.movie-rate .rate p span.rv {
-  font-size: 12px;
-  color: #4280bf;
-}
-.movie-rate .rate-star {
-  display: -webkit-flex;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  margin-left: 30px;
-  border-left: 1px solid #405266;
-  padding-left: 30px;
-  height: 54px;
-}
-.rate-star p {
-  font-size: 18px;
-  color: #abb7c4;
-  margin-right: 15px;
-  margin-bottom: 0;
-}
-.movie-rate .rate-star i {
-  font-size: 36px;
-  color: #abb7c4;
-  margin-left: 5px;
-}
-.movie-rate .rate-star i.fa-star {
-  color: #f5b50a;
 }
 .part{
   list-style: none;

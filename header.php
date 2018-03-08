@@ -55,7 +55,7 @@ $yazibaslik=$yazicek['film_isim'];
           </ul>
         </div>
       </nav>
-      <div class="top-search mt-3">
+      <div class="ust-arama mt-3">
         <form class="" action="arama.php" method="post" >
             <input name="arama" type="text" class="pl-3" placeholder="İstediğiniz Filmleri buradan hızlı bir şekilde arayabilirsiniz.">
         </form>
