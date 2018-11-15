@@ -10,7 +10,4 @@ Kulacını adı : admin@admin.com
 Bu şekilde admin paneline girebilirsiniz.
 # Script Demo
 http://film.snrtr.com adresinden demo görünümünü görebilirsiniz fakat admin paneline giriş yapamazsınız onu test etmek için local sunucunuza kurmanız gerekecektiri.
-# Son olarak
-Yaklaşık olarak 3 gün uğraştığım scripttir.
-Bana script ile ilgili sorularınız veya eklenmesini istediğiniz şeyler var ise sonergames@gmail.com adresinden iletişime geçebilirsiniz.
 Saygılarımla Soner USTA
